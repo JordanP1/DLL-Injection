@@ -1,0 +1,17 @@
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\bin\Debug\Controller.exe.config
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\bin\Debug\Controller.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\bin\Debug\Controller.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\obj\Debug\Controller.Controller.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\obj\Debug\Controller.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\Controller\Controller\obj\Debug\Controller.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\bin\Debug\Controller.exe.config
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\bin\Debug\Controller.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\bin\Debug\Controller.pdb
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.Controller.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.exe
+C:\Users\Showmo\Documents\Visual Studio 2015\Projects\DLL Injection\Controller\Controller\obj\Debug\Controller.pdb
